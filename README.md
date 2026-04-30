@@ -66,12 +66,6 @@ https://medium.com/@manpreet.s_92558
 
 ---
 
-## 🔗 Demo / Integration
-
-👉 Add your demo GIF or screenshots here
-
----
-
 ## ✍️ Notes
 
 * Designed to be lightweight and flexible
